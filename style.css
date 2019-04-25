@@ -1,0 +1,68 @@
+body {
+    background: #ce0e0e;
+    color: #3aad5c;
+    font-family: 'Crimson Text', serif;
+    font-size: 1.5rem;
+
+}
+
+h2 {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    
+}
+
+.field {
+    max-width:960px;
+    margin:0 auto;
+    padding: 20px;
+
+}
+
+.labelstyle {
+    font-style: oblique;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.legendstyle {
+    color: grey;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+.listyle {
+    font-style: oblique;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(179, 125, 55);
+}
+
+.tdstyle {
+    font-style: oblique;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(102, 89, 84);
+
+}
+
+fieldset {
+    width: 90%;
+    margin: 1%;
+    padding: 1%;
+    height: 500px;
+    border-radius:30px;
+
+}
+
+textarea{
+    border: solid 15px rgb(83, 35, 35);
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
+}
